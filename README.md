@@ -1,4 +1,4 @@
-# devops-ci-cd-project
+[![CI Pipeline](https://github.com/Darpan242003/devops-ci-cd-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Darpan242003/devops-ci-cd-project/actions/workflows/ci.yml)
 
 # 🚀 CI/CD Pipeline for Python Application (GitHub Actions + Docker)
 
