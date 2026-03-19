@@ -7,6 +7,7 @@ This project demonstrates a complete CI/CD pipeline for a Python-based web appli
 
 The pipeline automates the process of building, validating, and running the application whenever code is pushed to the repository.
 
+![alt text](<Screenshot 2026-03-20 004221.png>)
 ---
 
 ## ⚙️ Tech Stack
@@ -42,3 +43,4 @@ git clone <repo-url>
 cd project-folder
 docker build -t ci-cd-app .
 docker run -p 8000:8000 ci-cd-app
+
